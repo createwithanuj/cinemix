@@ -10,6 +10,14 @@ Cinemix is a modern web application built with React, TailwindCSS, and Vite. It 
 - ☁️ Integrates with Appwrite for backend functionality (authentication, database, etc.)
 - 📝 ESLint configured for code quality
 
+  ## Mockups & Snapshots
+
+Here are some mockups and snapshots of the Cinemix app:
+
+![](public/mockup1.png)
+![](public/mockup2.png)
+![](public/mockup3.png)
+
 ## Getting Started
 
 ### Prerequisites
