@@ -15,7 +15,7 @@ Cinemix is a modern web application built with React, TailwindCSS, and Vite. It 
 ### Prerequisites
 
 - Node.js (v18 or higher recommended)
-- npm or yarn
+- npm
 
 ### Installation
 
