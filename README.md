@@ -14,9 +14,15 @@ Cinemix is a modern web application built with React, TailwindCSS, and Vite. It 
 
 Here are some mockups and snapshots of the Cinemix app:
 
-![](public/mockup1.png)
-![](public/mockup2.png)
-![](public/mockup3.png)
+## Mockups & Snapshots
+
+Below are some mockups of the Cinemix app:
+
+<p align="center">
+  <img src="public/Mockup1.png" alt="Mockup 1" width="250" style="border: 3px solid #38bdf8; border-radius: 24px; box-shadow: 0 0 12px #38bdf833; "/>
+  <img src="public/Mockup2.png" alt="Mockup 2" width="250" style="border: 3px solid #34d399; border-radius: 24px; box-shadow: 0 0 12px #34d39933;" />
+  <img src="public/Mockup.png" alt="Mockup 3" width="250" style="border: 3px solid #fbbf24; border-radius: 24px; box-shadow: 0 0 12px #fbbf2433;" />
+</p>
 
 ## Getting Started
 
